@@ -1,8 +1,7 @@
-DaoType=S2Dao
 DefaultResourcePath=/mavenTeeda/src/main/resources
 DefaultRootPackage=com.example
 DefaultSrcPath=/mavenTeeda/src/main/java
 ServletPath=/mavenTeeda
-WebContentsRoot=target/m2e-wtp/web-resources
+WebContentsRoot=src/main/webapp
 eclipse.preferences.version=1
 isHelpRemote=true
