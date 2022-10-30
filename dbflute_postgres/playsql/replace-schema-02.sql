@@ -1,4 +1,4 @@
-USE t_manage;
+USE management_books;
 
 INSERT INTO abilities (get_bln,edit_bln,create_bln,delete_bln) VALUES
   (TRUE,TRUE,TRUE,TRUE),
